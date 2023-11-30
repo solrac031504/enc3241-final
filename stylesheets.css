@@ -160,6 +160,15 @@ p.display-field
 	font-family: Calibri, Optima, Arial, sans-serif;
 }
 
+table, th, td
+{
+	border: 1px solid;
+}
+
+th
+{
+	font-weight: normal;
+}
 
 h1,h2,h3,h4,h5,h6 
 {
